@@ -11,7 +11,6 @@ C:\Users\rakeshkumart\impact\docker\mySimpleApp\mySimpleApp\bin\Debug\net5.0\Mic
 C:\Users\rakeshkumart\impact\docker\mySimpleApp\mySimpleApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\rakeshkumart\impact\docker\mySimpleApp\mySimpleApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\rakeshkumart\impact\docker\mySimpleApp\mySimpleApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\rakeshkumart\impact\docker\mySimpleApp\mySimpleApp\obj\Debug\net5.0\mySimpleApp.csproj.AssemblyReference.cache
 C:\Users\rakeshkumart\impact\docker\mySimpleApp\mySimpleApp\obj\Debug\net5.0\mySimpleApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\rakeshkumart\impact\docker\mySimpleApp\mySimpleApp\obj\Debug\net5.0\mySimpleApp.AssemblyInfoInputs.cache
 C:\Users\rakeshkumart\impact\docker\mySimpleApp\mySimpleApp\obj\Debug\net5.0\mySimpleApp.AssemblyInfo.cs
